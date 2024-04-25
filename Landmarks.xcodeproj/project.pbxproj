@@ -229,7 +229,8 @@
 		3FDAB8A72BD0F27D00D527CC /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				3FDAB8A42BD0F01400D527CC /* ModelData.swift */,
+				3FEB28572BD2165C00ED9897 /* hikeData.json */,
+				3FDAB8A02BD0ECD400D527CC /* landmarkData.json */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -237,8 +238,7 @@
 		3FDAB8A82BD0F2BB00D527CC /* Model */ = {
 			isa = PBXGroup;
 			children = (
-				3FEB28572BD2165C00ED9897 /* hikeData.json */,
-				3FDAB8A02BD0ECD400D527CC /* landmarkData.json */,
+				3FDAB8A42BD0F01400D527CC /* ModelData.swift */,
 				3FDAB8A22BD0ECF900D527CC /* Landmark.swift */,
 				3FEB28592BD2169700ED9897 /* Hike.swift */,
 				3F202C452BDA157B0011C86C /* Profile.swift */,
