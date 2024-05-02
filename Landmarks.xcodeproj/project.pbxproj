@@ -30,7 +30,6 @@
 		3F84B0BA2BE362C500F02152 /* Hike.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FEB28592BD2169700ED9897 /* Hike.swift */; };
 		3F84B0BB2BE362C500F02152 /* ModelData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FDAB8A42BD0F01400D527CC /* ModelData.swift */; };
 		3F84B0BC2BE362C500F02152 /* LandmarksApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FDAB8702BD0DA8500D527CC /* LandmarksApp.swift */; };
-		3F84B0BD2BE362C500F02152 /* LandmarkList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F1F525F2BD1FA7E00E8DC2F /* LandmarkList.swift */; };
 		3F84B0BE2BE362C500F02152 /* LandmarkRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FDAB8A92BD0F38400D527CC /* LandmarkRow.swift */; };
 		3F84B0BF2BE362C500F02152 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FDAB89C2BD0E71A00D527CC /* MapView.swift */; };
 		3F84B0C02BE362C500F02152 /* Landmark.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FDAB8A22BD0ECF900D527CC /* Landmark.swift */; };
@@ -643,7 +642,6 @@
 				3F84B0F02BE3897100F02152 /* LandmarkList.swift in Sources */,
 				3F84B0BB2BE362C500F02152 /* ModelData.swift in Sources */,
 				3F84B0BC2BE362C500F02152 /* LandmarksApp.swift in Sources */,
-				3F84B0BD2BE362C500F02152 /* LandmarkList.swift in Sources */,
 				3F84B0BE2BE362C500F02152 /* LandmarkRow.swift in Sources */,
 				3F84B0BF2BE362C500F02152 /* MapView.swift in Sources */,
 				3F84B0C02BE362C500F02152 /* Landmark.swift in Sources */,
