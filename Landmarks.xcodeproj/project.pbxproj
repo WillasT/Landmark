@@ -84,6 +84,7 @@
 		3FEB286A2BD21FAC00ED9897 /* CategoryItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FEB28692BD21FAC00ED9897 /* CategoryItem.swift */; };
 		3FF4DDBB2BE484B30093CA51 /* LandmarkCommands.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FF4DDBA2BE484B30093CA51 /* LandmarkCommands.swift */; };
 		3FF4DDBC2BE484B30093CA51 /* LandmarkCommands.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FF4DDBA2BE484B30093CA51 /* LandmarkCommands.swift */; };
+		3FF4DDBE2BE486CF0093CA51 /* LandmarkSettings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FF4DDBD2BE486CF0093CA51 /* LandmarkSettings.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -183,6 +184,7 @@
 		3FEB28672BD21DF900ED9897 /* CategoryRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryRow.swift; sourceTree = "<group>"; };
 		3FEB28692BD21FAC00ED9897 /* CategoryItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryItem.swift; sourceTree = "<group>"; };
 		3FF4DDBA2BE484B30093CA51 /* LandmarkCommands.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkCommands.swift; sourceTree = "<group>"; };
+		3FF4DDBD2BE486CF0093CA51 /* LandmarkSettings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkSettings.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -297,6 +299,7 @@
 				3F84B0D82BE3817F00F02152 /* MacLandmarks.entitlements */,
 				3F84B0D52BE3817F00F02152 /* Preview Content */,
 				3F84B0E92BE3843E00F02152 /* LandmarkDetail.swift */,
+				3FF4DDBD2BE486CF0093CA51 /* LandmarkSettings.swift */,
 			);
 			path = MacLandmarks;
 			sourceTree = "<group>";
@@ -662,6 +665,7 @@
 			files = (
 				3F84B0DC2BE3825B00F02152 /* LandmarkRow.swift in Sources */,
 				3F84B0DD2BE3825B00F02152 /* MapView.swift in Sources */,
+				3FF4DDBE2BE486CF0093CA51 /* LandmarkSettings.swift in Sources */,
 				3F84B0DE2BE3825B00F02152 /* Landmark.swift in Sources */,
 				3F84B0DF2BE3825B00F02152 /* Profile.swift in Sources */,
 				3FF4DDBC2BE484B30093CA51 /* LandmarkCommands.swift in Sources */,
